@@ -10,7 +10,7 @@ import org.mariuszgromada.math.mxparser.*;
 
 public class MainActivity extends AppCompatActivity {
 
-    private EditText resultEditText;
+    public EditText resultEditText;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
